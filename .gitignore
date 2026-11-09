@@ -1,0 +1,7 @@
+node_modules/
+# Nenhum arquivo de ambiente vai pro repositorio (podem conter segredos):
+.env
+.env.*
+*.log
+npm-debug.log*
+.DS_Store
